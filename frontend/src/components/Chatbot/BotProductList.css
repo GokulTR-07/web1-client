@@ -1,0 +1,7 @@
+.bot-product-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem; /* Equivalent to gap-4 */
+  justify-content: center; /* Equivalent to justify-center */
+  margin-bottom: 2.5rem; /* Equivalent to mb-10 */
+}
